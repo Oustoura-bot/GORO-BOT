@@ -11,7 +11,7 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['212770131076', '👑 Mee9 - Creador 👑', true],
+  ['212770131076', '👑 OUSTOURA BOT👑', true],
 ];
 
 global.suittag = ['5219993404349'];
@@ -23,7 +23,7 @@ global.wm = 'The Mee9 - Bot';
 global.titulowm = 'The Mee9 - Bot';
 global.titulowm2 = `The Mee9 - Bot`
 global.igfg = 'The Mee9 - Bot';
-global.wait = '*[ ⏳ ] Cargando...*';
+global.wait = '*[ ⏳ ] Cargando...instagram.com/amin1_tech1igsh=YzljYTk1ODg3Zg==‎‏*';
 
 global.imagen1 = fs.readFileSync('./Menu.png');
 global.imagen2 = fs.readFileSync('./Menu.png');
@@ -44,13 +44,13 @@ global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
 global.wm2 = `${dia} ${fecha}\nThe Mee9 - Bot`;
-global.gt = 'The Mee9 - Bot';
-global.mysticbot = 'The Mee9 - Bot';
-global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
-global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
-global.waitt = '*[ ⏳ ] Cargando...*';
-global.waittt = '*[ ⏳ ] Cargando...*';
-global.waitttt = '*[ ⏳ ] Cargando...*';
+global.gt = 'the oustoura - Bot';
+global.mysticbot = 'The oustoura - Bot';
+global.md = 'https://instagram.com/amin1_tech1igsh=YzljYTk1ODg3Zg==‎‏';
+global.mysticbot = 'https://instagram.com/amin1_tech1igsh=YzljYTk1ODg3Zg==‎‏';
+global.waitt = '*[ ⏳ ] Cargando... instagram.com/amin1_tech1igsh=YzljYTk1ODg3Zg==‎‏*';
+global.waittt = '*[ ⏳ ] Cargando... instagram.com/amin1_tech1igsh=YzljYTk1ODg3Zg==‎‏*';
+global.waitttt = '*[ ⏳ ] Cargando...instagram.com/amin1_tech1igsh=YzljYTk1ODg3Zg==‎‏*';
 global.nomorown = '5219993404349';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
