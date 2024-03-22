@@ -40,6 +40,9 @@ ${readMore}
 
 ┏━━⊜ 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽
 ┃⋄ .facebook
+┃⋄ .ytv
+┃⋄ .yta
+┃⋄ .ytshort
 ┃⋄ .apk
 ┃⋄ .instagram
 ┃⋄ .igstalk
