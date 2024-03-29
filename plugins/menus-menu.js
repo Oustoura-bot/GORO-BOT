@@ -24,9 +24,9 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const str = `☯︎ 𝗛𝗲𝗹𝗹𝗼 ${taguser}
 
 
-• *𝖴𝗉𝗍𝗂𝗆𝖾:* ${uptime}
+• *سميتك:* ${uptime}
 • *𝖯𝗋𝖾𝖿𝗂𝗑:* ${usedPrefix}
-• *𝖳𝗈𝗍𝖺𝗅 𝖴𝗌𝖾𝗋𝗌:* ${rtotal}
+• *عدد المستخدمين* ${rtotal}
 
 ${readMore}
 ┏━━⊜ 𝖲𝗍𝗂𝖼𝗄𝖾𝗋 
@@ -116,7 +116,7 @@ ${readMore}
     conn.reply(m.chat, '*[ ℹ️ ] Este menu tiene un error interno, por lo cual no fue posible enviarlo.*', m);
   }
 };
-handler.command = /^(menu|menú|memu|memú|help|info|comandos|allmenu|2help|menu1.2|ayuda|commands|commandos|cmd)$/i;
+handler.command = /^(menu|menú|memu|memú|help|القائمة|comandos|allmenu|2help|أوامر|اوامر|commands|commandos|cmd)$/i;
 handler.exp = 0;
 handler.fail = null;
 export default handler;
